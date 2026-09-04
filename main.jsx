@@ -157,11 +157,11 @@ function App() {
 
         <div className="photo-grid">
           <figure className="photo-card tilt-left">
-            <div className="photo-wrap"><img src="/photos/her-photo-1.jpg" alt="A beautiful memory" /></div>
+            <div className="photo-wrap"><img src="./her-photo-1.jpg" alt="A beautiful memory" /></div>
             <figcaption>My favorite kind of beautiful ✨</figcaption>
           </figure>
           <figure className="photo-card tilt-right">
-            <div className="photo-wrap"><img src="/photos/her-photo-2.jpg" alt="A beautiful memory" /></div>
+            <div className="photo-wrap"><img src="./her-photo-2.jpg" alt="A beautiful memory" /></div>
             <figcaption>That smile deserves its own universe ❤️</figcaption>
           </figure>
         </div>
