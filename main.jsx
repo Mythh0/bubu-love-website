@@ -2,6 +2,8 @@ import React, { useEffect, useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import { Heart, Sparkles, Gift, ChevronDown, Volume2, VolumeX } from "lucide-react";
 import "./styles.css";
+import photo1 from "./her-photo-1.jpg";
+import photo2 from "./her-photo-2.jpg";
 
 const wishes = [
   "May your smile always stay as beautiful as it is today.",
