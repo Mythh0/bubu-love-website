@@ -163,7 +163,7 @@ function App() {
             <figcaption>My favorite kind of beautiful ✨</figcaption>
           </figure>
           <figure className="photo-card tilt-right">
-            <div className="photo-wrap"><img src={photo2} alt="A beautiful memory" /></div>>
+            <div className="photo-wrap"><img src={photo2} alt="A beautiful memory" /></div>
             <figcaption>That smile deserves its own universe ❤️</figcaption>
           </figure>
         </div>
